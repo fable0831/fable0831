@@ -1,15 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:F7DF1E&width=1500&height=240&section=header&text=JooSang%20Kim!&fontSize=50&fontColor=ffffff )  
-
-
-<div align="center">
-  <br>
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic+Coding&size=35&pause=1000&color=E6B9F7&center=true&vCenter=true&width=1000&lines=“기술+스택을+빠르게+흡수하는+개발자+입니다.”;“함께+성장하는+것을+꾸준히+고민하는+개발자+입니다.”;)](https://git.io/typing-svg) 
-  
-</div>
-
-<br>
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:F7DF1E&width=1500&height=240&section=header&text=JooSang%20Kim&fontSize=50&fontColor=ffffff )  
  
 ## Stacks 📖
 <div align="center">
